@@ -14,3 +14,27 @@ Location Reminder is a TODO list app with location reminders that remind the use
 a specific location. It uses firebase authentication(with gmail and email/password combination) for login. Users can set reminders with 
 title, description, and map POI(which is selected in the google maps view). The app creates a 
 geofence at the location selected for the reminder and triggers a notification as a  reminder when the user enters the geofence.
+
+## Login
+
+<img src="login.png" width="350">
+
+## Sign Up
+
+<img src="signup.png" width="350">
+
+## Location
+
+<img src="savelocation.png" width="350">
+
+## SaveReminder
+
+<img src="savereminder.png" width="350">
+
+## Reminder List
+
+<img src="list.png" width="350">
+
+## Notification
+
+<img src="notification.png" width="350">
